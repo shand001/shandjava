@@ -1,0 +1,11 @@
+id,name,image,gender,job,entrydate,updatetime
+1,谢斌,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/1.jpg,1,班主任,2008-05-09,2022-10-01 12:00:00
+2,李华,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/2.jpg,0,语文老师,2010-09-01,2023-01-15 09:30:00
+3,王强,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/3.jpg,1,数学老师,2012-07-12,2023-03-21 14:45:00
+4,周玲,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/4.jpg,0,英语老师,2015-03-18,2023-05-02 08:20:00
+5,赵鹏,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/5.jpg,1,物理老师,2011-11-05,2023-07-09 17:10:00
+6,刘娟,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/6.jpg,0,化学老师,2013-04-26,2023-08-18 10:05:00
+7,陈浩,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/7.jpg,1,体育老师,2016-02-29,2023-09-01 12:00:00
+8,孙悦,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/8.jpg,0,音乐老师,2014-12-08,2023-09-27 16:40:00
+9,黄凯,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/9.jpg,1,美术老师,2009-06-16,2023-10-11 11:22:00
+10,吴婷,https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/10.jpg,0,信息技术老师,2018-09-03,2023-12-20 18:00:00
